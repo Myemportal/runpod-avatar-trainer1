@@ -1,0 +1,8 @@
+numpy==1.24.4
+safetensors>=0.3.1
+protobuf==3.19.6
+diffusers==0.34.0
+torch
+transformers
+opencv-python
+# add any other dependencies your project needs here
